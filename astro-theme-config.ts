@@ -13,16 +13,16 @@ type NavItem = {
 const config = {
   site: {
     /** Production origin, used for canonical links, sitemap, and Open Graph metadata. */
-    url: 'https://example.com',
+    url: 'https://travelog.iqfareez.com',
     /** Subpath such as '/repo-name'. Keep empty when deploying at a domain root. */
     base: '',
     lang: 'en',
     locale: 'en_US',
     dateLocale: 'en-US',
-    title: 'Tone',
-    logoLabel: 'Tone',
-    description: 'A minimal Astro theme for posts and notes.',
-    author: 'Alex Morgan',
+    title: 'travelog - iqfareez',
+    logoLabel: "iqfareez's travelog",
+    description: "iqfareez's and family travels around Malaysia and hopefully beyond.",
+    author: 'iqfareez',
     /** Optional absolute or root-relative image URL for homepage/search/about social previews. */
     defaultOgImage: '/og.png',
   },
