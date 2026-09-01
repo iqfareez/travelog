@@ -2,17 +2,13 @@
 import config from '../../astro-theme-config';
 import { withBase } from '../utils/paths';
 
-const today = new Date();
 const footerTitle = config.site.logoLabel || config.site.title;
 const footerLinks = config.footerNav.filter((item) => item.href !== '/');
 ---
 
 <footer class="site-footer">
   <div class="footer-inner">
-    <p class="footer-copy">
-      &copy; {today.getFullYear()}{' '}
-      {footerTitle}.
-    </p>
+    <p class="footer-copy">&copy; 2026{' '}{footerTitle}.</p>
     {
       footerLinks.length > 0 && (
         <nav class="footer-links" aria-label="Footer navigation">
