@@ -10,13 +10,30 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
-      - uses: actions/setup-node@v6
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v6.0.9
+
+      - name: Setup Node
+        uses: actions/setup-node@v7.0.0
         with:
-          node-version: 22
-          cache: npm
-      - run: npm ci
-      - run: npm run check
-      - run: npm run build
-      - run: npm run lint
-      - run: npm run lint:css
+          node-version: '24'
+          cache: pnpm
+          cache-dependency-path: pnpm-lock.yaml
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Check
+        run: pnpm run check
+
+      - name: Build
+        run: pnpm run build
+
+      - name: Lint JavaScript and Astro
+        run: pnpm run lint
+
+      - name: Lint CSS
+        run: pnpm run lint:css
