@@ -50,6 +50,7 @@ const gridPosts = [...pinnedGridPosts, ...fallbackGridPosts].slice(0, 3);
 const featuredPlaceholder = featured?.data.heroImage
   ? await getImage({
       src: featured.data.heroImage,
+      inferSize: typeof featured.data.heroImage === 'string',
       width: 48,
       format: 'webp',
       quality: 28,
@@ -126,7 +127,9 @@ const featuredPlaceholderStyle = featuredPlaceholder
             <div class="featured-thumb-wrap" style={featuredPlaceholderStyle}>
               {featured.data.heroImage ? (
                 <Image
-                  src={featured.data.heroImage}
+                  {...(typeof featured.data.heroImage === 'string'
+                    ? { src: featured.data.heroImage, inferSize: true as const }
+                    : { src: featured.data.heroImage })}
                   alt={featured.data.title}
                   class="featured-thumb"
                   widths={[400, 720, 960, 1280]}

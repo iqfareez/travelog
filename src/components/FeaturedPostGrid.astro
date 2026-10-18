@@ -23,6 +23,7 @@ const placeholderEntries = await Promise.all(
           ? (
               await getImage({
                 src: post.data.heroImage,
+                inferSize: typeof post.data.heroImage === 'string',
                 width: 48,
                 format: 'webp',
                 quality: 28,
@@ -50,7 +51,9 @@ const imagePlaceholderStyle = (src: string | undefined) =>
         >
           {post.data.heroImage ? (
             <Image
-              src={post.data.heroImage}
+              {...(typeof post.data.heroImage === 'string'
+                ? { src: post.data.heroImage, inferSize: true as const }
+                : { src: post.data.heroImage })}
               alt={post.data.title}
               class="featured-post-card-img"
               widths={[320, 480, 700, 960, 1280, 1600]}
