@@ -102,6 +102,18 @@ sample content and assets, then run `npm run check`, `npm run lint`,
 | `npm run lint:css` | Run Stylelint                                  |
 | `npm run format`   | Format source files with Prettier              |
 
+## Travelog URL pre-commit hook
+
+Dependency installation enables the repository's pre-commit hook automatically
+(except in CI). To enable it manually, run `pnpm hooks:install`.
+
+On commit, staged Markdown and MDX files under `src/content/` have
+`https://cdn.iqfareez.com/t/Travelog/` replaced with
+`https://r2-fareez-bucket.iqfareez.com/public/Travelog/`. The rest of each URL,
+including its filename, is preserved. The hook updates the staged content and
+the working copy while keeping unrelated unstaged edits out of the commit.
+It requires Node.js on your Git client's PATH.
+
 ## Customize
 
 Most site-level settings live in `astro-theme-config.ts`.

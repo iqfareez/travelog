@@ -49,7 +49,7 @@ Lepas makan, terus balik untuk rehat dan tidur. 😴😴
 
 ## Day 2
 
-Kami tak ambil package yang ada breakfast, jadi pagi tu bangun dan jalan-jalan di sekitar hotel. Gym and swimming pool belum boleh masuk lagi (dia buka pukul 9am rasanya).
+Kami tak ambil package yang ada breakfast, jadi pagi tu bangun dan jalan-jalan di sekitar hotel. Ada bawak roti sikit so itulah buat sarapan. Gym and swimming pool belum boleh masuk lagi (dia buka pukul 9am rasanya).
 
 Nyamannya rasa udara pagi.
 
@@ -64,13 +64,55 @@ Nyamannya rasa udara pagi.
 <figcaption>Pemandangan dari bilik & kawasan hotel</figcaption>
 </figure>
 
-![Foto Avillion daripada CDN](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/dji_mimo_20251215_111204_262_1765773073193_photo.jpg)
+Lepas tu bersiap nak main swimming pool. Santai-santai je main air.
 
-![Foto Avillion daripada R2](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_105249289.jpg)
+<figure class="image-group">
+
+![chilling after swimming](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/dji_mimo_20251215_111204_262_1765773073193_photo.jpg)
+
+<figcaption>Chilling selepas main swimming pool</figcaption>
+</figure>
+
+Tengahari kami keluar cari lunch. Kami pergi ke kedai Salai Gepuk ([Google Maps](https://maps.app.goo.gl/r5yQQJTX3AGRMH9bA)) tak jauh dari hotel. Dua-dua order ayam gepuk. Not bad la, sedap and puas hati.
+
+![Ayam gepuk](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251215_145456409.jpg)
+
+Kenyang? Yes. Tapi kene cari minuman sebenar. Hahaha. So kami ke PD Famous Cendol ([Google Maps](https://maps.app.goo.gl/fQtK49qEb4GyUegM8)) area Teluk Kemang. Parking sini senang sebab dah lepas peak hour (pukul 3.50pm).
+
+<figure class="image-group">
+<div class="img-grid">
+
+![Cendol itself](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251215_155604713.jpg)
+
+![Menu cendol](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251215_155119505.jpg)
+
+![Kedai Cendol](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251215_155120998.jpg)
+
+</div>
+<figcaption>Dessert time</figcaption>
+</figure>
+
+Lepas tu, singgah sebentar jalan-jalan di Pandai Teluk Kemang. Celup kaki dan ambil angin di persisiran pantai.
+
+<video controls playsinline preload="metadata" style="width: 100%; height: auto;">
+<source src="https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/VID_20251215_162731839.mp4" type="video/mp4" />
+Your browser does not support video playback.
+</video>
+
+Perut pun dah full maka sudah tiba masa untuk ke pembaringan haha. Ni view dari lobby hotel waktu malam. Cantik juga ye.
+
+<figure class="image-group">
+<div class="img-grid">
+
+![Hotel waktu malam](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251215_223349327.jpg)
+
+</div>
+<figcaption>Pemandangan hotel pada malam</figcaption>
+</figure>
 
 ## Day 3
 
-Kalini kami turun pantai yang betul-betul sebelah Avillion hotel ni. Berjalan kaki je ke pantai. Cantik pemandangan air yang baru nak pasang. Tak ramai orang pun. Menikmati pemandangan hari terakhir kat PD sebelum balik KL. Awan mendung macam nak hujan.
+Kalini kami turun **pantai** yang betul-betul sebelah Avillion hotel ni. Berjalan kaki je ke pantai. Cantik pemandangan air yang baru nak pasang. Tak ramai orang pun. Menikmati pemandangan hari terakhir kat PD sebelum balik KL. Awan mendung macam nak hujan.
 
 Location Google maps di [sini](https://maps.app.goo.gl/euTE1ugvMT4bfjts7).
 
@@ -89,6 +131,10 @@ Location Google maps di [sini](https://maps.app.goo.gl/euTE1ugvMT4bfjts7).
 <figcaption>Sekitar pantai. Tak sure kenapa saya buat T-Pose kat situ haha.</figcaption>
 </figure>
 
+Last sebelum balik KL, cari lunch dulu. Plan asal nak lunch kat Itik Salai Masthar tapi tutup pula kedainya walaupun kat [maps](https://maps.app.goo.gl/7kuMxyuQzf83TK7A7) kata open. Takpelah cari tempat lain.
+
+So kami pergi ke **D'Lomak Salai Ikan Bakar** ([Google Maps](https://maps.app.goo.gl/WryVdpkDjBVtUdmV6)). Kat sini banyak lauk-lauk salai dan bakar-bakar. Parking sini agak terhad dan orang sederhana ramai. Makanan memuaskan. Harga dah tak ingat berapa tapi no complaint.
+
 <figure class="image-group">
 <div class="img-grid">
 
@@ -99,5 +145,9 @@ Location Google maps di [sini](https://maps.app.goo.gl/euTE1ugvMT4bfjts7).
 ![Ramai juga orang](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_133503327.jpg)
 
 </div>
-<figcaption>Makan lauk salai. Ramai juga orang. Masakannya pun sedap, puas hati</figcaption>
+<figcaption>Makan lauk salai. Meriah la juga. Masakannya pun sedap, puas hati</figcaption>
 </figure>
+
+Alhamdulillah. Percutian yang biasa sahaja tapi sangat memorable dan bermakna. Boleh repeat next time. Inshallah. Marilah back to reality.
+
+Terima kasih membaca!
