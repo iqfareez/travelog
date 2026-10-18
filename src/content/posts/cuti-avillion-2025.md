@@ -16,11 +16,11 @@ Bertolak dari KL pukul sekitar 12pm. Check in hotel pukul 3pm. Jadi sempat singg
 <figure class="image-group">
 <div class="img-grid">
 
-![RnR Seremban Southbound](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_125353152.jpg)
+![RnR Seremban Southbound](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251214_125353152.jpg)
 
-![Masjid Bandar Springhill](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_140941921.jpg)
+![Masjid Bandar Springhill](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251214_140941921.jpg)
 
-![Masjid top view](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/dji_fly_20251214_135540_407_1766731702936_photo_optimized.jpg)
+![Masjid top view](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/dji_fly_20251214_135540_407_1766731702936_photo_optimized.jpg)
 </div>
 <figcaption>Singgah makan dan solat dalam perjalanan ke Port Dickson.</figcaption>
 </figure>
@@ -34,11 +34,11 @@ Jumpa kedai kedua kat tepi jalan, lagi besar dan tak ramai orang sangat. Masa ni
 <figure class="image-group">
 <div class="img-grid">
 
-![Ikan bakar 1](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_194715556.jpg)
+![Ikan bakar 1](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251214_194715556.jpg)
 
-![Semua menu](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_194711085.jpg)
+![Semua menu](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251214_194711085.jpg)
 
-![Nombor meja](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_202757200.jpg)
+![Nombor meja](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251214_202757200.jpg)
 </div>
 <figcaption>Banyak juga yang kitorang order ni unutuk dua orang makan. Hehe~</figcaption>
 </figure>
@@ -49,131 +49,55 @@ Lepas makan, terus balik untuk rehat dan tidur. 😴😴
 
 ## Day 2
 
-![Foto Avillion daripada CDN](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/dji_mimo_20251215_111204_262_1765773073193_photo.jpg)
+Kami tak ambil package yang ada breakfast, jadi pagi tu bangun dan jalan-jalan di sekitar hotel. Gym and swimming pool belum boleh masuk lagi (dia buka pukul 9am rasanya).
+
+Nyamannya rasa udara pagi.
+
+<figure class="image-group">
+<div class="img-grid">
+
+![Pemandangan dari bilik](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251215_082917369.jpg)
+
+![Najwa](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/dji_mimo_20251215_092646_231_1765763579874_photo.jpg)
+
+</div>
+<figcaption>Pemandangan dari bilik & kawasan hotel</figcaption>
+</figure>
+
+![Foto Avillion daripada CDN](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/dji_mimo_20251215_111204_262_1765773073193_photo.jpg)
 
 ![Foto Avillion daripada R2](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_105249289.jpg)
 
-If you want a different look for your site, start in one file:
+## Day 3
 
-`src/styles/tokens.css`
+Kalini kami turun pantai yang betul-betul sebelah Avillion hotel ni. Berjalan kaki je ke pantai. Cantik pemandangan air yang baru nak pasang. Tak ramai orang pun. Menikmati pemandangan hari terakhir kat PD sebelum balik KL. Awan mendung macam nak hujan.
 
-The core colors, spacing steps, and type scale live there. Components and pages read those variables first, while specialized surfaces such as code highlighting keep a small local palette. Change the core variables and most of the site follows.
+Location Google maps di [sini](https://maps.app.goo.gl/euTE1ugvMT4bfjts7).
 
-## Change the accent color
+<figure class="image-group">
+<div class="img-grid">
 
-Find `--color-blue` near the top. There are three copies:
+![Makhluk](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_101605544.jpg)
 
-1. Light mode under `:root`
-2. Dark mode inside the `prefers-color-scheme: dark` media query
-3. Forced dark via `[data-theme='dark']`
+![Pantai](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_103725133.jpg)
 
-Edit all three. The starter uses the same variable name across modes so components do not need to know which mode they are in.
+![Me doing T-Pose](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_103132841.jpg)
 
-```css
-:root {
-  --color-blue: #197ca8; /* light mode */
-}
+![Selfie together](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_103805677.jpg)
 
-[data-theme='dark'] {
-  --color-blue: #74c7dc; /* dark mode */
-}
-```
+</div>
+<figcaption>Sekitar pantai. Tak sure kenapa saya buat T-Pose kat situ haha.</figcaption>
+</figure>
 
-Rule of thumb: a darker shade for light mode (passes contrast on white) and a lighter shade for dark mode (passes contrast on near-black). The starter's pair is a good starting point; push the hue without changing that contrast relationship.
+<figure class="image-group">
+<div class="img-grid">
 
-## Scroll dark turns on here
+![lauk salai](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_131827497.jpg)
 
-Scroll dark is off by default. This sample turns it on only for the demo. Add `focusEffect: 'scroll-dark'` to any post frontmatter to enable it for that post.
+![Lauk salai 2](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_131839254.jpg)
 
-```yaml
----
-title: 'Your post'
-focusEffect: 'scroll-dark'
----
-```
+![Ramai juga orang](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_133503327.jpg)
 
-## Change spacing
-
-The scale uses a 4-point grid:
-
-```css
---space-1: 0.25rem; /* 4pt */
---space-2: 0.5rem;
---space-3: 0.75rem;
---space-4: 1rem;
---space-6: 1.5rem;
---space-8: 2rem;
-```
-
-Components reference `var(--space-4)`, not raw `1rem`. Doubling `--space-4` would double every "one unit" gap across the site, which is rarely what you want. Instead, change one or two specific steps.
-
-Common edits:
-
-- Tighter prose: lower `--space-6` and `--space-8`.
-- Roomier headings: raise `--space-10` and `--space-12`.
-
-## Change the type scale
-
-Tone follows a quiet type scale at 16px base:
-
-```css
---text-large-title: 2.125rem; /* page hero */
---text-title-1: 1.75rem; /* featured */
---text-title-2: 1.375rem; /* section heading */
---text-headline: 1.0625rem; /* list titles */
---text-body: 1.0625rem; /* body */
---text-callout: 1rem; /* descriptions */
---text-footnote: 0.8125rem; /* dates, captions */
-```
-
-For a more compact theme, scale every step down by ~10%:
-
-```css
---text-large-title: 1.875rem;
---text-title-1: 1.5rem;
---text-title-2: 1.25rem;
-```
-
-Post title sizes use `clamp()` directly in `src/styles/layouts/post.css`. Edit there if you want a different scaling curve at wide widths.
-
-## Verify in dark mode
-
-Click the theme toggle in the header. Every text and surface color should still pass contrast.
-
-Three places to check:
-
-1. **Custom shadows.** Light-mode shadows use `rgba(0, 0, 0, …)`. Dark-mode shadows need to be stronger, or near-black, to be visible at all.
-2. **Hard-coded colors.** Grep the codebase for `#` and `rgb(` outside `tokens.css`, `src/config/expressive-code.ts`, and `src/styles/code.css`. The code block palette is intentionally separate; everything else should usually read from tokens.
-3. **Images.** Photos that read on white can disappear on near-black. Use a subtle separator or a tinted background for prose images if needed.
-
-## Change the font stack
-
-The default stack starts with a small Pretendard subset and falls back to system fonts.
-
-To add a brand font:
-
-1. Drop your `.woff2` file into `src/assets/fonts/`.
-2. Add an `@font-face` block near the top of `tokens.css`.
-3. Put the font family first in `--font-sans`.
-4. Add a preload in `src/components/BaseHead.astro` only if the font is critical to the first viewport.
-
-If the new font is variable, keep `font-weight: 100 900` or the range it supports. If it is static, list only the weights you actually use.
-
-## When a token is not enough
-
-Sometimes a single component needs a value the system does not have. Two options:
-
-- **Local CSS variable.** Define `--feed-date-column` inside the component's scoped style block. The PostFeed already does this for its layout columns.
-- **New token.** If more than one component would use it, add a new token to `tokens.css` and use it everywhere.
-
-Prefer local variables for one-off layout values. Prefer new tokens for anything that touches color, spacing, type, or motion.
-
-## What does not belong in tokens
-
-The token file is for visual primitives. It is not for:
-
-- Copy strings — those live in `src/ui.ts` and `astro-theme-config.ts`.
-- Route paths.
-- Feature flags.
-
-If a value answers "what does this look like?", it is a token. If it answers "what does this say?" or "where does it go?", it is config.
+</div>
+<figcaption>Makan lauk salai. Ramai juga orang. Masakannya pun sedap, puas hati</figcaption>
+</figure>
