@@ -12,12 +12,37 @@ import '../styles/components/image-lightbox.css';
         ></path>
       </svg>
     </button>
-    <img
-      id="lightbox-img"
-      class="lightbox-img"
-      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
-      alt=""
-    />
+    <div class="lightbox-media">
+      <img
+        id="lightbox-img"
+        class="lightbox-img"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+        alt=""
+      />
+      <div class="lightbox-navigation" role="group" aria-label="Image navigation" hidden>
+        <button type="button" class="lightbox-previous" aria-label="Previous image">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path
+              d="m14 6-6 6 6 6"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"></path>
+          </svg>
+        </button>
+        <span class="lightbox-position" role="status" aria-live="polite" aria-atomic="true"></span>
+        <button type="button" class="lightbox-next" aria-label="Next image">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path
+              d="m10 6 6 6-6 6"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
     <p id="lightbox-caption" class="lightbox-caption"></p>
   </div>
 </dialog>

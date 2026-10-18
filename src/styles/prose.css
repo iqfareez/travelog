@@ -278,7 +278,8 @@
 }
 
 /* Image caption: the <em> immediately after an image. */
-.prose img + em {
+.prose img + em,
+.prose .image-group > figcaption {
   display: block;
   margin-block-start: var(--space-2);
   font-size: var(--text-footnote);
@@ -287,13 +288,28 @@
   text-align: center;
 }
 
-/* Image grid for two images side by side.
-   Usage: <div class="img-grid"> two images </div> */
+/* Keep each Markdown image in its own paragraph (separated by blank lines).
+   An optional figure.image-group adds a shared figcaption. */
+.prose .image-group {
+  margin: var(--space-6) 0;
+}
+
 .prose .img-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: var(--space-3);
   margin: var(--space-6) 0;
+}
+
+.prose .image-group > .img-grid {
+  margin: 0;
+}
+
+.prose .img-grid > * {
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  aspect-ratio: 4 / 3;
 }
 
 .prose .img-grid img {
@@ -303,9 +319,47 @@
   object-fit: cover;
 }
 
+/* One image keeps its original proportions. */
+.prose .img-grid > :only-child {
+  grid-column: 1 / -1;
+  aspect-ratio: auto;
+}
+
+.prose .img-grid > :only-child img,
+.prose .img-grid > img:only-child {
+  height: auto;
+}
+
+/* Exactly three images: a tall first image beside two stacked images. */
+.prose .img-grid:has(> :nth-child(3):last-child) {
+  aspect-ratio: 4 / 3;
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+}
+
+.prose .img-grid:has(> :nth-child(3):last-child) > * {
+  aspect-ratio: auto;
+}
+
+.prose .img-grid:has(> :nth-child(3):last-child) > :first-child {
+  grid-row: span 2;
+}
+
 @media (max-width: 600px) {
-  .prose .img-grid {
+  .prose .img-grid,
+  .prose .img-grid:has(> :nth-child(3):last-child) {
     grid-template-columns: 1fr;
+    grid-template-rows: none;
+    aspect-ratio: auto;
+  }
+
+  .prose .img-grid > *,
+  .prose .img-grid:has(> :nth-child(3):last-child) > :first-child {
+    grid-row: auto;
+    aspect-ratio: auto;
+  }
+
+  .prose .img-grid img {
+    height: auto;
   }
 }
 

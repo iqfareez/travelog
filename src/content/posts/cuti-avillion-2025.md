@@ -11,11 +11,43 @@ Hi. Nak kongsikan pengalaman bercuti di Hotel Avillion, Port Dickson. First time
 
 ## Day 1
 
+Bertolak dari KL pukul sekitar 12pm. Check in hotel pukul 3pm. Jadi sempat singgah di RnR Seremban untuk makan, dan singgah di Masjid Bandar Springhill untuk berhenti solat.
+
+<figure class="image-group">
+<div class="img-grid">
+
+![RnR Seremban Southbound](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_125353152.jpg)
+
 ![Masjid Bandar Springhill](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_140941921.jpg)
 
 ![Masjid top view](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/dji_fly_20251214_135540_407_1766731702936_photo_optimized.jpg)
+</div>
+<figcaption>Singgah makan dan solat dalam perjalanan ke Port Dickson.</figcaption>
+</figure>
 
-![RnR Seremban Southbound](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_125353152.jpg)
+Time untuk **cari dinner**. Lepas maghrib kitorang keluar untuk cari makan. Takda plan pun nak makan mana, dari jalan besar boleh nampak signbord kedai-kedai makan jadi boleh pilih je yang mana menarik. Banyak kedai yang jual ikan bakar.
+
+Kitorang stop kat satu kedai ni mula-mula, tak ramai orang sangat. Kitorang duduk tapi takda siapa yang datang melayan bagi menu atau ambil order. Rasa macam tak seronok la, so kitorang keluar dari kedai tu dan cari kedai lain.
+
+Jumpa kedai kedua kat tepi jalan, lagi besar dan tak ramai orang sangat. Masa ni tengah gerimis jadi mungkin masing-masing malas nak keluar. Anyway, staff kedai ni welcoming, terus tunjuk tempat duduk dan bagi menu. Lokasi: **TapaqKing** Ikan Bakar ([Google Maps](https://maps.app.goo.gl/txgNUCTUvyjLThKp7))
+
+<figure class="image-group">
+<div class="img-grid">
+
+![Ikan bakar 1](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_194715556.jpg)
+
+![Semua menu](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_194711085.jpg)
+
+![Nombor meja](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/IMG_20251214_202757200.jpg)
+</div>
+<figcaption>Banyak juga yang kitorang order ni unutuk dua orang makan. Hehe~</figcaption>
+</figure>
+
+Tempat makan ber-aircond dan ada juga outdoor seatings. Banyak ruang parking disediakan juga. Lupa berapa harga yang dikenakan tapi seingat saya tidaklah mahal sangat.
+
+Lepas makan, terus balik untuk rehat dan tidur. 😴😴
+
+## Day 2
 
 ![Foto Avillion daripada CDN](https://cdn.iqfareez.com/t/Travelog/avillion-pd-2025/dji_mimo_20251215_111204_262_1765773073193_photo.jpg)
 

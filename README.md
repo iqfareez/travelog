@@ -110,6 +110,43 @@ The bundled [setup post](src/content/posts/getting-started-v2.md) walks through
 configuration, the project structure, writing posts, replacing the samples,
 deployment, and optional giscus comments.
 
+## Image groups in Markdown
+
+Wrap one image per paragraph in an `img-grid`. No MDX or imports are needed:
+
+```md
+<figure class="image-group">
+<div class="img-grid">
+
+![First image description](https://cdn.iqfareez.com/path/to/first.jpg)
+
+![Second image description](https://cdn.iqfareez.com/path/to/second.jpg)
+
+![Third image description](https://cdn.iqfareez.com/path/to/third.jpg)
+
+</div>
+<figcaption>An optional caption for the whole group.</figcaption>
+</figure>
+```
+
+Keep the blank lines around the Markdown images and between each image so Astro
+parses and processes them normally. Local image paths work too; remote hosts must
+be allowed by `image.domains` in `astro.config.mjs`.
+
+The layout follows the image count: one keeps its natural proportions, two sit
+side by side, three place the first image beside two stacked images, and four form
+a 2×2 grid. Larger groups continue in two columns; prefer groups of up to four.
+Desktop tiles crop to fit; click or use Enter/Space to see the full image. At
+600px and below, images stack with their original proportions.
+
+Remove the `<figcaption>` line to omit the caption. Shared captions also appear
+in the zoom preview. You can use just the `<div class="img-grid">` wrapper when
+you don't need a figure or caption.
+
+In the zoom preview, groups with multiple images include previous/next buttons
+and an image counter. Use the Left/Right arrow keys to navigate too. Navigation
+wraps within the current group; standalone images have no navigation controls.
+
 ## Deploy
 
 Tone builds as a static site.
