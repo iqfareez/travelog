@@ -112,7 +112,9 @@ Perut pun dah full maka sudah tiba masa untuk ke pembaringan haha. Ni view dari 
 
 ## Day 3
 
-Kalini kami turun **pantai** yang betul-betul sebelah Avillion hotel ni. Berjalan kaki je ke pantai. Cantik pemandangan air yang baru nak pasang. Tak ramai orang pun. Menikmati pemandangan hari terakhir kat PD sebelum balik KL. Awan mendung macam nak hujan.
+Pagi.
+
+Kalini kami turun ke **pantai** yang betul-betul sebelah Avillion hotel ni berjalan kaki sampai lah. Berapa kali dah nampak dari tepi jalan dan dari hotel pantai ni sebelum ni. Cantik pemandangan air yang baru nak pasang. Tak ramai orang pun. Menikmati pemandangan hari terakhir kat PD sebelum balik KL. Awan mendung macam nak hujan.
 
 Location Google maps di [sini](https://maps.app.goo.gl/euTE1ugvMT4bfjts7).
 
