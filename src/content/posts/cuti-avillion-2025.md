@@ -11,7 +11,7 @@ Hi. Nak kongsikan pengalaman bercuti di Hotel Avillion, Port Dickson. First time
 
 ## Day 1
 
-Bertolak dari KL pukul sekitar 12pm. Check in hotel pukul 3pm. Jadi sempat singgah di RnR Seremban untuk makan, dan singgah di Masjid Bandar Springhill untuk berhenti solat.
+Bertolak dari KL pukul sekitar 12pm. Check in hotel pukul 3pm. Banyak masa jadi sempat singgah di RnR Seremban untuk makan, dan singgah di Masjid Bandar Springhill untuk berhenti solat.
 
 <figure class="image-group">
 <div class="img-grid">
@@ -24,6 +24,8 @@ Bertolak dari KL pukul sekitar 12pm. Check in hotel pukul 3pm. Jadi sempat singg
 </div>
 <figcaption>Singgah makan dan solat dalam perjalanan ke Port Dickson.</figcaption>
 </figure>
+
+Sambung perjalanan ke resort hotel. Sampai dalam pukul 2.50pm terus turunkan semua barang dan check in. Ramai juga yang nak check in so kena tunggu dalam 3-5 minit macamtu.
 
 <figure class="image-group">
 <div class="img-grid">
