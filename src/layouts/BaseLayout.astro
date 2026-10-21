@@ -9,7 +9,7 @@ import SearchPalette from '../components/SearchPalette.astro';
 interface Props {
   title: string;
   description: string;
-  image?: ImageMetadata;
+  image?: ImageMetadata | string;
   ogImageUrl?: string;
   type?: 'website' | 'article';
   pubDate?: string;

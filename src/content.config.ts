@@ -13,7 +13,7 @@ const posts = defineCollection({
       // Transform string to Date object
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
-      heroImage: z.optional(image()),
+      heroImage: z.union([z.url({ protocol: /^https?$/ }), image()]).optional(),
       focusEffect: z.literal('scroll-dark').optional(),
       category: z.string().optional(),
       homeFeatured: z.boolean().default(false),

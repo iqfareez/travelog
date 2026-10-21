@@ -15,7 +15,7 @@ const commentsEnabled = commentsMode === 'giscus' || commentsMode === 'giscus-cu
 interface Props {
   title: string;
   description: string;
-  image?: ImageMetadata;
+  image?: ImageMetadata | string;
   /** Pre-built OG image URL string — overrides image.src when provided */
   ogImageUrl?: string;
   /** 'website' (default) | 'article' */
@@ -57,7 +57,7 @@ const fallbackOgImageUrl = config.site.defaultOgImage;
 const ogImage = ogImageUrl
   ? new URL(withBase(ogImageUrl), Astro.site)
   : image
-    ? new URL(image.src, Astro.url)
+    ? new URL(typeof image === 'string' ? image : image.src, Astro.url)
     : fallbackOgImageUrl
       ? new URL(withBase(fallbackOgImageUrl), Astro.site)
       : null;
@@ -149,8 +149,8 @@ const websiteJsonLd =
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 {ogImageHref && <meta property="og:image" content={ogImageHref} />}
-{ogImageHref && <meta property="og:image:width" content={String(image?.width ?? 1200)} />}
-{ogImageHref && <meta property="og:image:height" content={String(image?.height ?? 630)} />}
+{ogImageHref && typeof image !== 'string' && <meta property="og:image:width" content={String(image?.width ?? 1200)} />}
+{ogImageHref && typeof image !== 'string' && <meta property="og:image:height" content={String(image?.height ?? 630)} />}
 {ogImageHref && <meta property="og:image:alt" content={title} />}
 <meta property="og:locale" content={ogLocale} />
 <meta property="og:site_name" content={SITE_TITLE} />

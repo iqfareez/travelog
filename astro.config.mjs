@@ -29,6 +29,14 @@ function withoutConfiguredBase(pathname) {
 export default defineConfig({
   site: configuredSite,
   base: configuredBase || undefined,
+  image: {
+    domains: [
+      // for development
+      'cdn.iqfareez.com',
+      // for production
+      'r2-fareez-bucket.iqfareez.com'
+    ],
+  },
   integrations: [
     expressiveCode(toneExpressiveCodeOptions),
     mdx(),
