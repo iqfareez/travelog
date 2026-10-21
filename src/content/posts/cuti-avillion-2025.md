@@ -25,6 +25,20 @@ Bertolak dari KL pukul sekitar 12pm. Check in hotel pukul 3pm. Jadi sempat singg
 <figcaption>Singgah makan dan solat dalam perjalanan ke Port Dickson.</figcaption>
 </figure>
 
+<figure class="image-group">
+<div class="img-grid">
+
+![Bilik Air](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251214_180010963.jpg)
+
+![Katil](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251214_152431465.jpg)
+
+![Halaman luar](https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251216_105308178.jpg)
+</div>
+<figcaption>Bilik</figcaption>
+</figure>
+
+Bilik air dia open air tapi takda siapa boleh nampak. Ada tirai yang boleh ditutup sepenuhnya dan boleh mandi pakai shower bathtub kalau tak selesa open air macam tu haha.
+
 Time untuk **cari dinner**. Lepas maghrib kitorang keluar untuk cari makan. Takda plan pun nak makan mana, dari jalan besar boleh nampak signbord kedai-kedai makan jadi boleh pilih je yang mana menarik. Banyak kedai yang jual ikan bakar.
 
 Kitorang stop kat satu kedai ni mula-mula, tak ramai orang sangat. Kitorang duduk tapi takda siapa yang datang melayan bagi menu atau ambil order. Rasa macam tak seronok la, so kitorang keluar dari kedai tu dan cari kedai lain.
