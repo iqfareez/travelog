@@ -1,7 +1,7 @@
 ---
 title: 'Hotel Avillion, Port Dickson'
 description: 'Percutian selepas kahwin. Terkejut sebab bilik mandi dia open air! View hotel dan pantai yang cantik.'
-pubDate: '2026-03-20'
+pubDate: '2026-02-20'
 category: 'Holiday'
 heroImage: 'https://r2-fareez-bucket.iqfareez.com/public/Travelog/avillion-pd-2025/IMG_20251215_082930868.jpg'
 homeOrder: 1
